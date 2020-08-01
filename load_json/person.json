@@ -1,0 +1,30 @@
+[
+  {
+    "name": "G Shailebhyanand",
+    "age" : "19",
+    "height" : "189",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name": "Sheldon Cooper",
+    "age" : "49",
+    "height" : "179",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name": "Penny",
+    "age" : "29",
+    "height" : "179",
+    "gender" : "female",
+    "hair_color" : "blonde"
+  },
+  {
+    "name": "Howard Wolowitz",
+    "age" : "39",
+    "height" : "179",
+    "gender" : "male",
+    "hair_color" : "brown"
+  }
+]
